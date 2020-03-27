@@ -11,7 +11,7 @@ namespace XamGroup
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new AbsencePage();
         }
 
         protected override void OnStart()
